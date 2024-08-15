@@ -28,8 +28,12 @@ Project Highlights: Detailed case studies of significant projects, including cod
 Clone the Repository: You can clone this repository to your local machine using the following command:
 
 ******Technologies Used******
+
 HTML
+
 CSS
+
 JavaScript
+
 (Any additional technologies or frameworks used)
 
