@@ -1,8 +1,13 @@
 ******Digital Portfolio******
+
 Welcome to my digital portfolio! 
-This website showcases my skills, projects, and professional journey. It is hosted on GitHub Pages and serves as a platform to display my work and accomplishments in a variety of domains.
+
+This website showcases my skills, projects, and professional journey. 
+
+It is hosted on GitHub Pages and serves as a platform to display my work and accomplishments in a variety of domains.
 
 Overview
+
 This portfolio site includes:
 
 Home: An introduction to who I am, my background, and my career goals.
