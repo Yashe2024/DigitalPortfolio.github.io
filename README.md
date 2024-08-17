@@ -40,5 +40,4 @@ CSS
 
 JavaScript
 
-(Any additional technologies or frameworks used)
 
